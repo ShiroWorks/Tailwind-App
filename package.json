@@ -1,0 +1,9 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Tailwind App",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  }
+}
